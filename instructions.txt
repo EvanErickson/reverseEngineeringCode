@@ -1,0 +1,5 @@
+If it were me, I would change all the jquery to vanilla js. 
+
+I would also switch all the vars to consts.
+
+Besides that, the code looks pretty good.
